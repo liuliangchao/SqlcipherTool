@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">SqlcipherTool</string>
+
+	<string name="permission_fail">请授予读写权限</string>
+	<string name="error_param">参数错误</string>
+	<string name="error_delete">处理生成后的数据库已存在且无法删除</string>
+	<string name="error_open">数据库打开错误</string>
+	<string name="deal_finish">处理完成: %s</string>
+	<string name="used_time">耗时: %d毫秒</string>
+	<string name="password_title">数据库密码</string>
+	<string name="password_content">密码有特殊字符的话请自己转义</string>
+	<string name="choose_db">选择数据库</string>
+	<string name="password">密码</string>
+	<string name="encrypt">加密</string>
+	<string name="decipher">解密</string>
+	<string name="wait_title">请稍等</string>
+	<string name="wait_content"> </string>
+	<string name="about">对应sqlcipher: 4.2.0版本\n如果是其它sqlcipher版本生成的数据库，修改build.gradle到对应的版本号重新编译运行\n\n</string>
+</resources>
